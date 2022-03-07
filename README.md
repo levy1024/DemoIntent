@@ -1,2 +1,2 @@
 # DemoIntent
-Android Intent demo written with java.
+A Android Intent demo written with java.
